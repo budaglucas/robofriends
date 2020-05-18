@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACA,QAAS,CACT,SAAU,CACV,mCAAoC,CACpC,iDACA","file":"main.a9cbc974.chunk.css","sourcesContent":["body {\nmargin: 0;\npadding: 0;\nfont-family: Brush Script Std Medium;\nbackground: linear-gradient(to right, rgb(53, 80, 87), rgb(127, 127, 127));\n}"]}
